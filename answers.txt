@@ -1,2 +1,2 @@
 What is a remote repository?
-Remote repositories host your projects on a network or on the internet, often to aid in version control. These can be accessed from anything connected to the remote network, not just your local machine.
+A remote repository hosts your projects on a network or on the internet, often to aid in version control. These can be accessed from anything connected to the remote network, not just your local machine.
